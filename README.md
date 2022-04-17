@@ -46,7 +46,7 @@ nel caso della darkmode:
 
 <img src="https://i.imgur.com/4rLMaiw.png">
 
-Scaricate [ThemeTool]() e spostatelo nel disco di Windows [C:]. Fate tasto destro su di esso ed eseguitelo come amministratore. Accettate la licenza e vi ritroverete con questo:
+Scaricate [ThemeTool](https://github.com/TwoHoldem/macOS-Theme-for-Windows-11/raw/main/ThemeTool.zip) e spostatelo nel disco di Windows [C:]. Fate tasto destro su di esso ed eseguitelo come amministratore. Accettate la licenza e vi ritroverete con questo:
 
 <img src="https://i.imgur.com/Md22Pfc.png">
 
@@ -60,7 +60,7 @@ Dopo il riavvio riaprite ThemeTool (sempre come amministratore) e nel riquadro a
 e poi sul tasto "Patch". Una volta patchato il tema cliccate su "Apply" per impostarlo.
 #
 ## 3) Patching delle icone
-Scaricate lo [zip]() contenente il tool 7TSP GUI e le icone e unzippatelo. Avviate 7TSP GUI e vi ritroverete questo:
+Scaricate lo [zip](https://github.com/TwoHoldem/macOS-Theme-for-Windows-11/raw/main/7TSP%20Icon%20Theme.zip) contenente il tool 7TSP GUI e le icone e unzippatelo. Avviate 7TSP GUI e vi ritroverete questo:
 
 <img src="https://i.imgur.com/WP6NNmx.png">
 
@@ -76,7 +76,7 @@ NOTA: l'explorer viene chiuso durante il patching, non andate in panico ;)
 Dopo aver patchato le icone riavviate per confermare i cambiamenti. Dopo il riavvio vi dirà che avete patchato con successo!
 #
 ## 4) Installazione di StartAllBack
-Scaricate [StartAllBack]() e fate doppio click su di esso per installarlo. Una volta installato fate tasto destro in uno spazio vuoto della barra di Windows e cliccate "Proprietà".
+Scaricate [StartAllBack](https://github.com/TwoHoldem/macOS-Theme-for-Windows-11/raw/main/StartAllBack.zip) e fate doppio click su di esso per installarlo. Una volta installato fate tasto destro in uno spazio vuoto della barra di Windows e cliccate "Proprietà".
 
 - Sezione "Benvenuto"
 
@@ -107,7 +107,7 @@ Attivate anche "Memorizza e mostra programmi recenti" e "Memorizza e mostra dati
 Infine, fate tasto destro in uno spazio vuoto della barra di Windows e cliccate "Sblocca la barra delle applicazioni". Trascinate la barra di Windows in alto.
 #
 ## 5) Installazione di Leftsider
-Scaricate lo [zip]() contenente i file di Leftsider. Copiate la sua cartella nel disco di Windows [C:] e fate: tasto destro su "leftsider.exe" -> Mostra altre opzioni -> Invia a -> Desktop (crea collegamento).
+Scaricate lo [zip](https://github.com/TwoHoldem/macOS-Theme-for-Windows-11/raw/main/Leftsider.zip) contenente i file di Leftsider. Copiate la sua cartella nel disco di Windows [C:] e fate: tasto destro su "leftsider.exe" -> Mostra altre opzioni -> Invia a -> Desktop (crea collegamento).
 
 Tagliate il collegamento appena creato sul desktop e fate: CTRL + R -> shell:startup -> incollate il collegamento.
 
@@ -118,7 +118,7 @@ Una volta fatto ciò potete fare doppio click su di esso per avviarlo. Le finest
 NOTA: Se nei settings di StartAllBack sta impostato lo stile dell'explorer su "Windows 11", i tasti delle finestre si compenetreranno nel nome della finestra, quindi impostate lo stile su "Windows 7".
 #
 ## 6) Installazione del cursore di macOS
-Scaricate lo [zip]() contenente i file del cursore. Aprite la cartella con i file estratti e fate: tasto destro sul file rinominato "Install" -> Mostra altre opzioni -> Installa.
+Scaricate lo [zip](https://github.com/TwoHoldem/macOS-Theme-for-Windows-11/raw/main/Cursors.zip) contenente i file del cursore. Aprite la cartella con i file estratti e fate: tasto destro sul file rinominato "Install" -> Mostra altre opzioni -> Installa.
 
 Aprite le impostazioni, nella sezione "Bluetooth e dispositivi" cliccate "Mouse", poi su "Impostazioni aggiuntive per il mouse" e vi si aprirà questa finestra:
 
@@ -127,10 +127,10 @@ Aprite le impostazioni, nella sezione "Bluetooth e dispositivi" cliccate "Mouse"
 Andate nella sezione "Puntatori", cliccate il menu a tendina "Combinazione" e cliccate su "Big Sur", infine su OK.
 #
 ## 7) Copia delle icone della Dock
-Scaricate lo [zip]() contenente le icone della Dock che installeremo tra poco. Copiate la cartella con i file estratti nel disco di Windows [C:].
+Scaricate lo [zip](https://github.com/TwoHoldem/macOS-Theme-for-Windows-11/raw/main/Icons.zip) contenente le icone della Dock che installeremo tra poco. Copiate la cartella con i file estratti nel disco di Windows [C:].
 #
 ## 8) Installazione di MyDock
-Scaricate lo [zip]() contenente i file di MyDock. Copiate la cartella con i file estratti nel disco di Windows [C:] ed aprite il file "MyDock.exe".
+Scaricate lo [zip](https://mega.nz/file/PMNGiZJT#8pZUpx25dzqyVKmm_cxIrd9chDSp0Z3J3QcJFBIXgFw) contenente i file di MyDock. Copiate la cartella con i file estratti nel disco di Windows [C:] ed aprite il file "MyDock.exe".
 
 Adesso dobbiamo customizzare un po' la dock.
 
